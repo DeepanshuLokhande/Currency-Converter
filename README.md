@@ -7,7 +7,7 @@ This project is a currency converter application built using React.js with Vite,
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DeepanshuLokhande/Currency-Converter.git
 ```
 
 2. Navigate to the project directory:
