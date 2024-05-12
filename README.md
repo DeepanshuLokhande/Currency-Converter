@@ -2,6 +2,7 @@
 
 This project is a currency converter application built using React.js with Vite, JavaScript, Tailwind CSS, and an API to fetch the current currency values. It utilizes React's `useState` hook for managing state and a custom hook called `useCurrencyInfo` for fetching currency information from the API. The currency values are fetched from the [@fawazahmed0/currency-api](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/"currency".json) API.
 
+**The [site](https://ephemeral-faun-c56816.netlify.app/) is hosted on netlify.**
 ### How to Run the Project:
 
 1. Clone the repository:
